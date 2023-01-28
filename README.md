@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wanatszef
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me C++
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java
+- 📫 How to reach me Java
 
 <!---
 Wanatszef/Wanatszef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
